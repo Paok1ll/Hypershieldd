@@ -1,9 +1,14 @@
 {
-  "discount_info": {
-    "active": false,
-    "percentage": 0,
-    "end_time": null
-  },
-  "promo_codes": {},
-  "user_data": {}
+  "613362930028642307": {
+    "uid": "7812b839-6675-44e5-9231-82db54b2d15b",
+    "user_id": "613362930028642307",
+    "username": "Paokill",
+    "subscription_keys": [],
+    "ip": "46.211.253.232",
+    "telegram_id": "unknown",
+    "hwid": null,
+    "referral_code": "XXXXXXXX",
+    "referred_by": null,
+    "referrals": 0
+  }
 }
