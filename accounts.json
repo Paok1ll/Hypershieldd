@@ -1,1 +1,9 @@
-
+{
+  "discount_info": {
+    "active": false,
+    "percentage": 0,
+    "end_time": null
+  },
+  "promo_codes": {},
+  "user_data": {}
+}
