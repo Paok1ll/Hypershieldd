@@ -1,0 +1,11 @@
+{
+  "DQA22TBJBOJW": {
+    "key": "DQA22TBJBOJW",
+    "type": "Hyper Resolver Stable",
+    "duration": "lifetime",
+    "used": false,
+    "used_by_uid": null,
+    "activation_date": "2025-08-28 20:37:18",
+    "expiration": "2099-12-31 23:59:59"
+  }
+}
