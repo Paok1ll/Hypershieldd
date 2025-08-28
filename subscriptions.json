@@ -12,8 +12,8 @@
     "key": "B5A4Y04CW0MP",
     "type": "Hyper Resolver Stable",
     "duration": "lifetime",
-    "used": false,
-    "used_by_uid": null,
+    "used": true,
+    "used_by_uid": "7812b839-6675-44e5-9231-82db54b2d15b",
     "activation_date": "2025-08-28 20:54:33",
     "expiration": "2099-12-31 23:59:59"
   }
